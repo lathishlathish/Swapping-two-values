@@ -30,6 +30,7 @@ n2=t
 print("Swapped values are:",n1,n2)
 ```
 ## Output:
+
 ![image](https://user-images.githubusercontent.com/120359170/226512598-cf2ac10a-1e40-4a1c-bd3b-0e5e0687c0e4.png)
 
 
